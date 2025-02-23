@@ -1,3 +1,1 @@
-    # ptbac1
-
-A new Flutter project.
+Exercises on solving linear equations
